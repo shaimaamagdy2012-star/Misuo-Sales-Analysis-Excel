@@ -2,8 +2,6 @@
 
 An interactive sales dashboard built in Microsoft Excel for **Misuo Metal Furniture Company**, designed to track sales performance, delivery status, and customer behavior to support business decision-making.
 
-![Dashboard Preview] (Misuo Dashborad .png)
-
 ## Project Overview
 
 This project transforms raw sales data into a clean, interactive Excel dashboard. The workflow includes cleaning and preparing the raw data, then building Pivot Tables, Pivot Charts, formulas, and interactive slicers to analyze sales performance across platforms, regions, and delivery outcomes.
