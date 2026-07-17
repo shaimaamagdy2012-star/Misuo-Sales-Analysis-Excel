@@ -36,7 +36,3 @@ The dashboard was created after cleaning and preparing the data using Excel, the
 - Dashboard Design
 - Business Reporting
 - Excel Visualization
-
-## Dashboard Preview
-
-(سنضيف الصورة هنا في الخطوة التالية)
